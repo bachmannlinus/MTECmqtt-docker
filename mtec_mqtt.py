@@ -16,6 +16,7 @@ import signal
 import mqtt
 import MTECmodbusAPI
 import hass_int
+import subprocess
 
 #----------------------------------
 def signal_handler(signal_number, frame):
@@ -191,4 +192,5 @@ def main():
  
 #---------------------------------------------------
 if __name__ == '__main__':
+  subprocess.call(["python", "update_config.py"])
   main()
