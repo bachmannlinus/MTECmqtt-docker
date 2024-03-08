@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#
 """
 Auto discovery for home assistant
 (c) 2024 by Christian Rödel 

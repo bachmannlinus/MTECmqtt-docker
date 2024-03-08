@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#
 """
 This tool enables to query MTECmodbusapi and export the data in various ways.
 (c) 2024 by Christian Rödel 

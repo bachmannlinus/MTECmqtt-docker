@@ -4,7 +4,6 @@ WORKDIR /app
 
 COPY . /app
 
-
 # Setze die Umgebungsvariablen
 ENV MODBUS_IP=192.168.1.231
 ENV MODBUS_PORT=5743

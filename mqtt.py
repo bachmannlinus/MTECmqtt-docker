@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#
 """
 MQTT client base implemantation
 (c) 2024 by Christian Rödel 
