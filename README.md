@@ -25,8 +25,8 @@ You have to set the Ports `5743`, as well as your desired MQTT-Port (most of the
 | MQTT_DISABLE             | False                |
 | MQTT_SERVER              | localhost            |
 | MQTT_PORT                | 1883                 |
-| MQTT_LOGIN               | " "                  |
-| MQTT_PASSWORD            | ""                   |
+| MQTT_LOGIN               | "MQTT"                  |
+| MQTT_PASSWORD            | "MQTT"                   |
 | MQTT_TOPIC               | MTEC                 |
 | MQTT_FLOAT_FORMAT        | "{:.3f}"             |
 | REFRESH_NOW_S            | 10                   |
